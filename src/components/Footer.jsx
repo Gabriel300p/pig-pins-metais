@@ -30,7 +30,7 @@ export default function Footer() {
       </div>
       <div className="flex items-center justify-between pt-10">
         <span className="text-base md:text-lg font-normal font-body text-neutral-300">
-          &copy; {year} Pig Pins | Todos os direitos reservados
+          &copy; {year} Pig Pins Metais | Todos os direitos reservados
         </span>
         <div className="flex items-center gap-3 md:gap-5 text-neutral-50">
           <a
