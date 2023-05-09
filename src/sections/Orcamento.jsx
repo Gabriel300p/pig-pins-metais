@@ -33,7 +33,8 @@ export default function Orcamento() {
             </h3>
             <p className="font-body text-base text-neutral-500 md:text-center">
               Nos informe o tipo de peça que <br className="hidden md:block" />{" "}
-              deseja (Chaveiro, pin, abridor e etc)
+              deseja <br className="block md:hidden" />
+              (Chaveiro, pin, abridor e etc)
             </p>
           </div>
         </div>
@@ -47,7 +48,8 @@ export default function Orcamento() {
             </h3>
             <p className="font-body text-base text-neutral-500 md:text-center">
               Nos envie a arte/logo/desenho que{" "}
-              <br className="hidden md:block" /> deseja para sua peça
+              <br className="hidden md:block" /> deseja{" "}
+              <br className="block md:hidden" /> para sua peça
             </p>
           </div>
         </div>
