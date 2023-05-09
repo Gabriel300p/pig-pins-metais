@@ -11,7 +11,7 @@ export default function Navbar() {
         </a>
         <a href="#contato">
           <button className="uppercase font-title font-medium text-xs sm:text-sm text-neutral-50 bg-neutral-800 px-2 sm:px-5 py-3 hover:opacity-70 transition-opacity duration-200">
-            Entre me contato
+            Entre em contato
           </button>
         </a>
       </nav>
