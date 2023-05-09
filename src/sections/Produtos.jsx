@@ -48,7 +48,7 @@ export default function Produtos() {
       </div>
       <Swiper
         slidesPerView={isTabletOrMobile ? 2 : 5}
-        spaceBetween={isTabletOrMobile ? -15 : -15}
+        spaceBetween={isTabletOrMobile ? -15 : -10}
         // freeMode={true}
         autoplay={{
           delay: 2500,
