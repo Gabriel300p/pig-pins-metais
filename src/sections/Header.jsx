@@ -4,7 +4,7 @@ export default function Header() {
   return (
     <>
       <header
-        className="py-6 px-5 xl:px-14 flex flex-col lg:flex-row items-center justify-between "
+        className="py-6 px-5 lg:px-14 flex flex-col lg:flex-row items-center justify-between "
         id="home"
       >
         <div className="md:max-w-full lg:max-w-2xl xl:max-w-3xl 3xl:max-w-5xl mt-6 md:mt-10 md:flex md:flex-col 2xl:items-center 2xl:justify-center xl:block z-20">
